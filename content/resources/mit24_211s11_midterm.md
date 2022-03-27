@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 65c5a63d-02ad-af0d-1529-a2a7608b36e7
 resourcetype: Document
 title: '24.211S14 Theory of Knowledge: Midterm Paper'
 uid: 014766eb-8d95-db70-6918-c90b4b4cc19b

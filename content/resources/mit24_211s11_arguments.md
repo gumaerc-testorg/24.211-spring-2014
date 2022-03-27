@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 65c5a63d-02ad-af0d-1529-a2a7608b36e7
 resourcetype: Document
 title: '24.211S14 Theory of Knowledge: Short Writing Assignment 2'
 uid: 7b5cba2f-edb3-3b7b-76f0-117b23ede0a6

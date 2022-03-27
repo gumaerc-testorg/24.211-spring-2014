@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 65c5a63d-02ad-af0d-1529-a2a7608b36e7
 resourcetype: Document
 title: '24.211S14 Theory of Knowledge: Final Paper - Student Example'
 uid: d5258bdc-aa5b-d9ee-3ed2-577409535acc
