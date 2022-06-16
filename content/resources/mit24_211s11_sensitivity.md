@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding sensitivity and safety.
-file: /media/courses/24-211-theory-of-knowledge-spring-2014/cfa699133ea38fa90635ab3ded802b84_MIT24_211S11_Sensitivity.pdf
+file: /courses/24-211-theory-of-knowledge-spring-2014/cfa699133ea38fa90635ab3ded802b84_MIT24_211S11_Sensitivity.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: '24.211S14 Theory of Knowledge: Short Writing Assignment 4'
 uid: cfa69913-3ea3-8fa9-0635-ab3ded802b84
 ---
+This resource contains information regarding sensitivity and safety.
+
