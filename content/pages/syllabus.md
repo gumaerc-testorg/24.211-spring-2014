@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, grading policy, attendance and participation, academic
+  misconduct, and guidelines on reading and writing a philosophy paper.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: fd081e66-feb1-e4a8-55ff-5c20e162c71a
 ---
@@ -74,7 +79,7 @@ One (1) 6–8 page final paper
 
 {{< tableclose >}}
 
-For further details, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further details, see the {{% resource_link 65c5a63d-02ad-af0d-1529-a2a7608b36e7 "Assignments" %}} section.
 
 Course Attendance and Participation
 -----------------------------------
