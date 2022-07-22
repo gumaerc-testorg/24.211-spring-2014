@@ -5,6 +5,7 @@ file: /courses/24-211-theory-of-knowledge-spring-2014/cfa699133ea38fa90635ab3ded
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '24.211S14 Theory of Knowledge: Short Writing Assignment 4'
 uid: cfa69913-3ea3-8fa9-0635-ab3ded802b84
 ---
 This resource contains information regarding sensitivity and safety.
-

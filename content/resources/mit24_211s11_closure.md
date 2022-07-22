@@ -5,6 +5,7 @@ file: /courses/24-211-theory-of-knowledge-spring-2014/250f61211e88bb292cfddf4925
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '24.211S14 Theory of Knowledge: Short Writing Assignment 3'
 uid: 250f6121-1e88-bb29-2cfd-df49259d1667
 ---
 This resource contains information regarding the closure principle.
-

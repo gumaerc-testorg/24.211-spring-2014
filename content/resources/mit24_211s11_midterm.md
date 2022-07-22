@@ -6,6 +6,7 @@ file: /courses/24-211-theory-of-knowledge-spring-2014/014766eb8d95db706918c90b4b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '24.211S14 Theory of Knowledge: Midterm Paper'
 uid: 014766eb-8d95-db70-6918-c90b4b4cc19b
 ---
 This resource contains information regarding midterm paper guidelines and instructions.
-
