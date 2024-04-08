@@ -47,6 +47,6 @@ Student example: {{% resource_link d5258bdc-aa5b-d9ee-3ed2-577409535acc "\"The C
 Writing References
 ------------------
 
-[Guidelines on Writing a Philosophy Paper](http://www.jimpryor.net/teaching/guidelines/writing.html), jimpryor.net.
+{{% resource_link "9639bbbd-0622-481b-bf36-68578bdcd28e" "Guidelines on Writing a Philosophy Paper" %}}, jimpryor.net.
 
-[A Sample Philosophy Paper](http://prezi.com/z4h1_fwilbxj/a-sample-philosophy-paper/), prezi.com.
+{{% resource_link "88fc23c5-be17-45b3-98e1-84cef4d1a1c8" "A Sample Philosophy Paper" %}}, prezi.com.
