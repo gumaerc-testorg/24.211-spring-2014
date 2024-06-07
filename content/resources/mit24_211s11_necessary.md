@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding necessary and sufficient
   conditions.
 file: /courses/24-211-theory-of-knowledge-spring-2014/879aad580a6115d7971f9562a6dbe4d4_MIT24_211S11_Necessary.pdf
+file_size: 98933
 file_type: application/pdf
 learning_resource_types:
 - Assignments

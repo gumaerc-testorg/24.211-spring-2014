@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding the contexualist solution
   to the lottery paradox.
 file: /courses/24-211-theory-of-knowledge-spring-2014/d5258bdcaa5bd9ee3ed2577409535acc_MIT24_211S11_ContextualSol.pdf
+file_size: 242284
 file_type: application/pdf
 learning_resource_types:
 - Assignments
