@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding wright, skepticism and entitlement.
 file: /courses/24-211-theory-of-knowledge-spring-2014/c9bce1ff87bcbc7de9d31e86714d1db3_MIT24_211S11_Wright.pdf
+file_size: 666406
 file_type: application/pdf
 learning_resource_types:
 - Assignments
