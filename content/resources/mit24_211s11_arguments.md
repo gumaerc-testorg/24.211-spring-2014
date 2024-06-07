@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding analyzing arguments.
 file: /courses/24-211-theory-of-knowledge-spring-2014/7b5cba2fedb33b7b76f0117b23ede0a6_MIT24_211S11_Arguments.pdf
+file_size: 99931
 file_type: application/pdf
 learning_resource_types:
 - Assignments
