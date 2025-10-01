@@ -89,9 +89,9 @@ This is a discussion–based class and so a significant portion of your final gr
 Guidelines
 ----------
 
-Please read James Pryor's [Guidelines](http://www.jimpryor.net/teaching/index.html) on reading and writing a philosophy paper.
+Please read James Pryor's {{% resource_link "1ca7d714-ceda-4599-a7b2-d2d6b42a4f00" "Guidelines" %}} on reading and writing a philosophy paper.
 
 Academic Misconduct
 -------------------
 
-There will be no tolerance for plagiarism and other academic misconduct. Please see the [MIT Policies and Procedures](http://web.mit.edu/policies/10/10.2.html).
+There will be no tolerance for plagiarism and other academic misconduct. Please see the {{% resource_link "dd6f90a4-cbcd-4f3a-8783-9180ebbe76cd" "MIT Policies and Procedures" %}}.
